@@ -75,8 +75,6 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
     ```sh
     fastapi dev main.py
     ```
-![10](https://github.com/user-attachments/assets/84d68b9b-fa62-4034-a221-7d9dcadfc1ec)
-![9](https://github.com/user-attachments/assets/f0d8638a-b3f8-43d9-93f2-a6a1fc111a88)
 
 ## CI/CD Workflow
 
